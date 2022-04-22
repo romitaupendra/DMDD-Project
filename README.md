@@ -1,6 +1,6 @@
 # DMDD-Project
 
-# Team Members:
+## Team Members:
 
 Greeshma Tatineni – 002130050
 
